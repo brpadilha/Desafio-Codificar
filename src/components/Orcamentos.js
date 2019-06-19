@@ -44,8 +44,6 @@ export default class Orcamentos extends Component {
           ));
           this.setState({orcamentoHtml});
       })    
-      
-      console.log(this.state);
   }
 
   render() {

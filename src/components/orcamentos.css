@@ -1,0 +1,49 @@
+.linha {
+    cursor: pointer;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ADD8E6;
+    list-style: none;
+    list-style-position: inside;
+    border: 1px solid #7fb5b5;
+    width: calc(90% - 12px);
+}
+
+h2{
+    text-align: center
+}
+
+.orcamento ol {
+    margin: 0px;
+    padding: 0px;
+}
+
+.linha:hover {
+    background-color: #5D9B9B;
+}
+
+.descricao-modal {
+    text-align: center;
+
+}
+
+.orcamento {
+    vertical-align: middle;
+    width: 100%;
+}
+
+.App {
+    width: 100%;
+}
+
+#root {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

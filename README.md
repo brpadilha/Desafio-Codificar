@@ -6,7 +6,7 @@ Também foi utilizado a biblioteca `React Bootstrap` para utilização do modal.
 
 Primeiramente deve-se instalar os node-modules no diretório raíz do projeto com o comando:
 
-### `npm install node-modules`
+###`npm install node-modules`
 
 Também é aconselhavel instalar a biblioteca do react-bootstrap para que não tenha problemas de incompatibilidade, podendo instalar com o comando na raíz do projeto:
 

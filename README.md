@@ -4,13 +4,9 @@ Também foi utilizado a biblioteca `React Bootstrap` para utilização do modal.
 
 ## Scripts para rodar o projeto
 
-Primeiramente deve-se instalar os node-modules no diretório raíz do projeto com o comando:
+Primeiramente deve-se instalar as bibliotecas utilizadas no projeto, no diretório raíz do projeto utilize o comando no terminal:
 
-### `npm install node-modules`
-
-Também é aconselhavel instalar a biblioteca do react-bootstrap para que não tenha problemas de incompatibilidade, podendo instalar com o comando na raíz do projeto:
-
-### `npm install react-bootstrap bootstrap`
+### `npm install`
 
 Dentro do diretório do projeto, você pode rodar:
 
